@@ -1,6 +1,5 @@
 # PFSE-code
 
-This is a official code release of NDSD-Fusion for 3D object detection. 
 
 ## Getting Started
 
