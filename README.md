@@ -74,12 +74,7 @@ python3 test.py --cfg_file ${CONFIG_FILE} --batch_size ${BATCH_SIZE} --ckpt ${CK
 
 ## Acknowledgement
 
-Inspiration and Baseline Methods：
+Inspiration：
 
 [Virconv](https://github.com/hailanyi/VirConv)
-
-[SIIV](https://ieeexplore.ieee.org/abstract/document/10412668)
-
-[LoGoNet](https://github.com/PJLab-ADG/LoGoNet)
-
 [OpenPCDet](https://github.com/open-mmlab/OpenPCDet)
