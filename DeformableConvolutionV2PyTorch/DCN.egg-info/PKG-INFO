@@ -1,9 +1,0 @@
-Metadata-Version: 2.2
-Name: DCN
-Version: 1.0
-Summary: deformable convolutional networks
-Home-page: https://github.com/charlesshang/DCNv2
-Author: xvjiarui
-Dynamic: author
-Dynamic: home-page
-Dynamic: summary
